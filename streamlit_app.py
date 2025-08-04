@@ -11,7 +11,7 @@ st.markdown("""
     <div style="background-color:#E3EAF2; padding:10px 30px; display:flex; gap:15px; border-radius: 0 0 6px 6px;">
         <div style="background-color:lightgray; padding:8px 16px; border-radius:5px; color:gray; cursor:not-allowed;">File Mapping</div>
         <div style="background-color:lightgray; padding:8px 16px; border-radius:5px; color:gray; cursor:not-allowed;">Define Fields</div>
-        <div style="color:purple; padding-top:5px;">Can’t click on these? OR - can click but then can’t do anything on page?</div>
+        <div style="color:purple; padding-top:5px;">Can’t click on these </div>
     </div>
 """, unsafe_allow_html=True)
 
